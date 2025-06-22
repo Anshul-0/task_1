@@ -1,0 +1,8 @@
+Folder/              File	Purpose
+src/	                Main app code (components, styles, utilities)
+public/	              Static files (index.html)
+node_modules/	        All project dependencies
+package.json	        Lists project dependencies and npm scripts
+package-lock         .json	Exact version of dependencies
+.gitignore	          Specifies files ignored by git
+README.md	           Project information and instructions
