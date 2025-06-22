@@ -1,0 +1,14 @@
+Observations:
+
+The src folder contains the React component files.
+The public folder contains the index.html entry point.
+node_modules stores external libraries.
+App.js uses JSX for structure, useState() for state, and props can be passed to child components.
+Hot reloading improves productivity.
+
+Learnings:
+
+Created a functional component with state and JSX.
+Understood how the build process works.
+Explored the React app structure and files.
+Developed a basic understanding of the development workflow.
